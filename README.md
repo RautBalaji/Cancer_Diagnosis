@@ -14,4 +14,4 @@ This is machine learning project for Classification of given genetic variations/
 ![cancer_output](https://user-images.githubusercontent.com/104637675/169701757-a016b90a-e8eb-4d4a-b900-f28971a0d6fb.png)
 
 
-[output.txt.txt](https://github.com/RautBalaji/Cancer_Diagnosis/files/8749683/output.txt.txt)
+
